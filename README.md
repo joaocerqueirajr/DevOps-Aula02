@@ -1,1 +1,9 @@
-# DevOps-Aula02
+#Juliana Paes
+
+#Glória Pires
+
+#Beatriz Segall
+
+#Giovanna Antonelli
+
+#Lilia Cabral
