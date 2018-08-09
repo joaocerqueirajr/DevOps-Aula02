@@ -1,9 +1,11 @@
 #Juliana Paes
 
-#Glória Pires
+#Stênio Garcia
 
 #Beatriz Segall
 
 #Giovanna Antonelli
 
 #Lilia Cabral
+
+#Carlos Vereza
